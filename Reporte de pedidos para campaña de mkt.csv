@@ -1,0 +1,14 @@
+id_pedido;nombre_cliente;fecha;Estadío del mes
+1;Bulma;29/5/2023 12:36;fin de mes
+2;azul;15/4/2023 17:36;mediados
+3;Benito ;29/3/2023 16:36;fin de mes
+4;angel;28/2/2023 15:36;fin de mes
+5;Benito ;30/1/2023 14:36;fin de mes
+6;sofia;12/12/2022 02:36;mediados
+;;;
+;;;
+;;;
+Estadío;Cuenta de id_pedido;;
+fin de mes;4;;
+mediados;2;;
+Total general;6;;
